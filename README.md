@@ -1,4 +1,8 @@
 # jasmine_kaur_shopify
+"Here is my link for shopify : fe1c7e-55.myshopify.com
+ user: mahayjass3122+5@gmail.com
+ password:jasmine123"
+ 
 Theme style is "Refresh"
 Site displays GDPR banner that can be dismissed for at least the duration of the session with acceptance button : yes 
 Header displays: yes i have with gradiant colors and with logo 
@@ -41,4 +45,3 @@ Install and configure two (2) apps. Feel free to use any app. List these apps wi
 2.quikfy pop up for GDPR banner and dissmiss after 5 s 
 3 Way store location for location my store to Algoniquin college location
 4. Social media icons for social media icons
-
